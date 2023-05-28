@@ -1,5 +1,12 @@
 # ZhisObjectListView
-**Zhi’s ObjectListView**, cloned and forked from Phillip Piper's ObjectListView on SourceForge.
+
+**Zhi’s ObjectListView** is a customized and enhanced version of Phillip Piper's ObjectListView, originally hosted on SourceForge. This solution is specifically designed for .NET WinForms, targeting the .NET Framework 4.8 runtime.
+
+Zhi's ObjectListView provides a powerful and feature-rich ListView control for WinForms applications developed using the .NET platform. It offers numerous improvements and enhancements over the original ObjectListView, making it an ideal choice for developers seeking advanced functionality and an enhanced user experience.
+
+With its support for .NET Framework 4.8, Zhi's ObjectListView ensures compatibility with the latest version of the .NET runtime, allowing developers to leverage the capabilities and performance improvements offered by this framework. By targeting this version, Zhi's ObjectListView enables developers to take advantage of the latest features and APIs while maintaining compatibility with existing WinForms projects.
+
+By choosing Zhi's ObjectListView, developers can benefit from a reliable and efficient solution for creating sophisticated WinForms applications with enhanced ListView functionality.
 
 ## Original Introduction
 
